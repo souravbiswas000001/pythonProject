@@ -12,7 +12,7 @@ Customizable output format.
 Installation
 
 Clone the repository:
-git clone https://github.com/souravbiswas000001/pyls.git
+git clone https://github.com/souravbiswas000001/pythonProject.git
 
 Navigate to the project directory:
 cd pyls
