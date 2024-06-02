@@ -1,0 +1,13 @@
+{
+  "contents": [
+    {"name": ".gitignore", "permissions": "rw-r--r--", "size": 1024, "time_modified": "Nov 14 11:27"},
+    {"name": "LICENSE", "permissions": "rw-r--r--", "size": 1024, "time_modified": "Nov 14 11:27"},
+    {"name": "README.md", "permissions": "rw-r--r--", "size": 1024, "time_modified": "Nov 14 11:27"},
+    {"name": "ast", "permissions": "drwxr-xr-x", "size": 1024, "time_modified": "Nov 14 11:27"},
+    {"name": "go.mod", "permissions": "rw-r--r--", "size": 1024, "time_modified": "Nov 14 11:27"},
+    {"name": "lexer", "permissions": "drwxr-xr-x", "size": 1024, "time_modified": "Nov 14 11:27"},
+    {"name": "main.go", "permissions": "rw-r--r--", "size": 1024, "time_modified": "Nov 14 11:27"},
+    {"name": "parser", "permissions": "drwxr-xr-x", "size": 1024, "time_modified": "Nov 14 11:27"},
+    {"name": "token", "permissions": "drwxr-xr-x", "size": 1024, "time_modified": "Nov 14 11:27"}
+  ]
+}
